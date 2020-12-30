@@ -4,4 +4,6 @@ import numpy as np
 
 def main():
     """Main function."""
-    print("Successfully imported the modules!")
+    message = "Successfully imported the modules!"
+    print(message)
+    return message
